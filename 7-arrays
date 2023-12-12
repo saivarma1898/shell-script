@@ -1,6 +1,6 @@
 cars=("BMW" "AUDI" "MERC")
-echo $cars[0]
-echo $cars[1]
-echo $cars[2]
-echo $cars[@]
-echo $cars[#]
+echo "$cars[0]"
+echo "$cars[1]"
+echo "$cars[2]"
+echo "$cars[@]"
+echo "$cars[#]"
