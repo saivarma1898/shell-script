@@ -2,4 +2,4 @@
 person1=sai
 person2=varma
 
-echo "$person1 k $person2"
+echo "$person1"+"k $person2"
