@@ -1,4 +1,4 @@
 echo "username"
 read -s username
 
-echo " $username
+echo " $username"
