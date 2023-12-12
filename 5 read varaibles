@@ -1,0 +1,4 @@
+echo "username"
+read -s username
+
+echo " $username
