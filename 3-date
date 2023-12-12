@@ -1,4 +1,4 @@
 #!/bin/bash
 
-da={date}
+da=$(date)
 echo " date is ${da} "
