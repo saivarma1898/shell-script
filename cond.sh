@@ -1,8 +1,10 @@
 #!/bin/bash
-num=2
-if [ $num -gt 2 ]
+
+NUMBER=$1
+
+if [ $NUMBER -gt 100 ]
 then
-echo "true"
+   echo "Give number $NUMBER is greater than 100"
 else
-echo "false"
+   echo "Give number $NUMBER is not greater than 100"
 fi
